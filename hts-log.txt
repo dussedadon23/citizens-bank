@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 Jun 2022 03:40:00 at https://thomaswellingtontm.wixsite.com/wells-fargo-online +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thomaswellingtontm.wixsite.com/wells-fargo-online -O1 "C:\My Web Sites\wells fargo scam page 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/decodeURIComponent(e (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/sitemap.xml (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/feed.xml (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/ (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/version/ (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/eec152dc.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/da6c52cb.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/b604fd33.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/9455f099.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/33aee7c8.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/b3e8ff7e.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/9b7ffe32.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/b8f52e79.chunk.min.js (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.1889ce31.chunk.min.js (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.5113f2f6.chunk.min.js (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.7602a3f3.chunk.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.a5523b60.chunk.min.js (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~bootstrap.8bf33f67.chunk.min.css (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+03:40:09	Error: 	"Not Found" (404) at link https://thomaswellingtontm.wixsite.com/rb_wixui.thunderbolt~bootstrap.b8f52e79.chunk.min.js (from https://thomaswellingtontm.wixsite.com/wells-fargo-online)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 34 links scanned, 13 files written (1329328 bytes overall) [441363 bytes received at 49040 bytes/sec], 1384262 bytes transferred using HTTP compression in 32 files, ratio 29%, 4.8 requests per connection
+(20 errors, 0 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thomaswellingtontm.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=42
+thomaswellingtontm.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1656232800|MUZ92aroF7f3
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a7071f7983f5023ae9cd6e93d9a84ae03010d8f1acd7cae707ca17cca791a1ed70ec4aa0e94a5cb0bbdded2398e37d3432
+thomaswellingtontm.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
